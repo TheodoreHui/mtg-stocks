@@ -2,6 +2,8 @@
 
 ## Overview
 The MTG Stocks project is a toolset designed to analyze and compare Magic: The Gathering (MTG) cards. The project leverages data science techniques to provide insights into card similarities, trends, and other key metrics.
+### Pipeline
+
 
 ## Project Structure
 
@@ -25,7 +27,7 @@ To start working with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/TheodoreHui/mtg-stocks.git)
    cd mtg-stocks-main
    ```
 
@@ -36,12 +38,4 @@ To start working with the project, follow these steps:
    - Use the notebooks in the `scripts/` folder to analyze and test the data.
    - Run `card_comp.py` and `card_sim.py` for specific analyses.
 
-## Contributing
-If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are welcome!
-
-## License
-This project is licensed under [INSERT LICENSE NAME]. See the LICENSE file for details.
-
-## Contact
-For questions or suggestions, please contact [Your Name or Project Maintainer's Email].
 
